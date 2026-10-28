@@ -27,5 +27,6 @@ public static partial class SFBGS003
         public static FormLink<IAStoryManagerNodeGetter> SFBGS003_ScannerBounties_NewHomestead => Construct(0xa884);
         public static FormLink<IAStoryManagerNodeGetter> SFBGS003_ScannerBounties_Neon => Construct(0xa885);
         public static FormLink<IAStoryManagerNodeGetter> SFBGS003_ScannterBounties_OE_Civilians => Construct(0xe08f);
+        public static FormLink<IAStoryManagerNodeGetter> SFBGS003_ScannerBounties_NewAtlantisWellDUPLICATE000 => Construct(0xf7a3);
     }
 }

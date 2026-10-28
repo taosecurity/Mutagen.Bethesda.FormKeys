@@ -27,7 +27,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> CoffeeMug01_SpilledIcedCoffee01DUPLICATE001 => Construct(0x1cd7cb);
         public static FormLink<IPlacedObjectGetter> UCVanguardSpaceCombatTactics05_Ref001 => Construct(0x1051ea);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE061 => Construct(0x11197c);
-        public static FormLink<IPlacedObjectGetter> RobotCollision341 => Construct(0xbe7d4);
+        public static FormLink<IPlacedObjectGetter> RobotCollision342 => Construct(0xbe7d4);
         public static FormLink<IPlacedObjectGetter> RobotCollision205 => Construct(0x566b0);
         public static FormLink<IPlacedObjectGetter> RobotCollision093 => Construct(0x21e04);
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic002DUPLICATE064 => Construct(0x3995d);
@@ -278,8 +278,8 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> RobotCollision220 => Construct(0x6a6fc);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE042 => Construct(0xb152d);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE155 => Construct(0xb1773);
-        public static FormLink<IPlacedObjectGetter> RobotCollision332 => Construct(0xbe364);
-        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE193 => Construct(0x292dbf);
+        public static FormLink<IPlacedObjectGetter> RobotCollision333 => Construct(0xbe364);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE194 => Construct(0x292dbf);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow019DUPLICATE002DUPLICATE001 => Construct(0x84d86);
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic019DUPLICATE002DUPLICATE001 => Construct(0x84db7);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow019DUPLICATE002DUPLICATE001 => Construct(0x84deb);
@@ -441,7 +441,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> ClutterPI_FridgeIndustrial01DUPLICATE055 => Construct(0x1fd110);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE3181 => Construct(0x1fd138);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE3182 => Construct(0x1fd15a);
-        public static FormLink<IPlacedObjectGetter> RobotCollision345 => Construct(0xbe843);
+        public static FormLink<IPlacedObjectGetter> RobotCollision346 => Construct(0xbe843);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_Shadow295 => Construct(0x24a6d5);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow361 => Construct(0x24a6d6);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow336 => Construct(0x24a6de);
@@ -561,10 +561,10 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow326 => Construct(0x7eb95);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow327 => Construct(0x7ee32);
         public static FormLink<IPlacedObjectGetter> RobotCollision325 => Construct(0xbe20e);
-        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE196 => Construct(0xc2d86);
-        public static FormLink<IPlacedObjectGetter> RobotCollision344 => Construct(0xc3159);
-        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE197 => Construct(0xc5a0a);
-        public static FormLink<IPlacedObjectGetter> RobotCollision346 => Construct(0xc5d73);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE197 => Construct(0xc2d86);
+        public static FormLink<IPlacedObjectGetter> RobotCollision345 => Construct(0xc3159);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE198 => Construct(0xc5a0a);
+        public static FormLink<IPlacedObjectGetter> RobotCollision347 => Construct(0xc5d73);
         public static FormLink<IPlacedObjectGetter> RobotCollision173 => Construct(0x23414);
         public static FormLink<IPlacedObjectGetter> RobotCollision043 => Construct(0x7009);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE062 => Construct(0x34e63);
@@ -780,8 +780,8 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE010 => Construct(0x12b38d);
         public static FormLink<IPlacedObjectGetter> RobotCollision021 => Construct(0x4ccb);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE011 => Construct(0x1ef88);
-        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE199 => Construct(0xc9755);
-        public static FormLink<IPlacedObjectGetter> RobotCollision349 => Construct(0xc9ac0);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE200 => Construct(0xc9755);
+        public static FormLink<IPlacedObjectGetter> RobotCollision350 => Construct(0xc9ac0);
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic002DUPLICATE117 => Construct(0xee380);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow002DUPLICATE113 => Construct(0xee385);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow002DUPLICATE117 => Construct(0xee387);
@@ -926,7 +926,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE1757DUPLICATE032 => Construct(0x38e44);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE1753DUPLICATE032 => Construct(0x38e85);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE2750 => Construct(0x38ea9);
-        public static FormLink<IPlacedObjectGetter> RobotCollision340 => Construct(0xbe7c4);
+        public static FormLink<IPlacedObjectGetter> RobotCollision341 => Construct(0xbe7c4);
         public static FormLink<IPlacedObjectGetter> RobotCollision295 => Construct(0xbda64);
         public static FormLink<IPlacedObjectGetter> RobotCollision177 => Construct(0x2355c);
         public static FormLink<IPlacedObjectGetter> ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss144 => Construct(0xa7ccd);
@@ -1055,7 +1055,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow227 => Construct(0x96fc6);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow228 => Construct(0x973e2);
         public static FormLink<IPlacedObjectGetter> RobotCollision212 => Construct(0x56e23);
-        public static FormLink<IPlacedObjectGetter> RobotCollision339 => Construct(0xbe3bb);
+        public static FormLink<IPlacedObjectGetter> RobotCollision340 => Construct(0xbe3bb);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE041 => Construct(0x5442);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE042 => Construct(0x5460);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE043 => Construct(0x546a);
@@ -1195,7 +1195,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow186 => Construct(0x235908);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE142 => Construct(0x1eab31);
         public static FormLink<IPlacedObjectGetter> RobotCollision187 => Construct(0x303d0);
-        public static FormLink<IPlacedObjectGetter> RobotCollision343 => Construct(0xc64ba);
+        public static FormLink<IPlacedObjectGetter> RobotCollision344 => Construct(0xc64ba);
         public static FormLink<IPlacedObjectGetter> RobotCollision206 => Construct(0x566c4);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_Shadow181 => Construct(0x4c8b3);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_Shadow182 => Construct(0x4c8c4);
@@ -1353,7 +1353,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE056 => Construct(0xf3e8);
         public static FormLink<IPlacedObjectGetter> RobotCollision027 => Construct(0x4f7b);
         public static FormLink<IPlacedObjectGetter> RobotCollision052 => Construct(0xe988);
-        public static FormLink<IPlacedObjectGetter> RobotCollision335 => Construct(0xbe398);
+        public static FormLink<IPlacedObjectGetter> RobotCollision336 => Construct(0xbe398);
         public static FormLink<IPlacedObjectGetter> RobotCollision224 => Construct(0x73523);
         public static FormLink<IPlacedObjectGetter> RobotCollision266 => Construct(0xbd2d6);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med02DUPLICATE018 => Construct(0x81eb5);
@@ -1413,8 +1413,8 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE145 => Construct(0x9c0ef);
         public static FormLink<IPlacedObjectGetter> RobotCollision195 => Construct(0x4ac0a);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE146 => Construct(0x97e1f);
-        public static FormLink<IPlacedObjectGetter> RobotCollision333 => Construct(0xbe36f);
-        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE194 => Construct(0x278a93);
+        public static FormLink<IPlacedObjectGetter> RobotCollision334 => Construct(0xbe36f);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE195 => Construct(0x278a93);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow002DUPLICATE019 => Construct(0x9229);
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic002DUPLICATE019 => Construct(0x9275);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow002DUPLICATE026 => Construct(0x92ca);
@@ -1723,7 +1723,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow016DUPLICATE019 => Construct(0xa67ae);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow016DUPLICATE019 => Construct(0xa67b9);
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic016DUPLICATE019 => Construct(0xa680b);
-        public static FormLink<IPlacedObjectGetter> RobotCollision336 => Construct(0xbe3a0);
+        public static FormLink<IPlacedObjectGetter> RobotCollision337 => Construct(0xbe3a0);
         public static FormLink<IPlacedObjectGetter> RobotCollision101 => Construct(0x220a4);
         public static FormLink<IPlacedObjectGetter> RobotCollision275 => Construct(0xbd509);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE3039 => Construct(0x1f3def);
@@ -1882,6 +1882,8 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow002DUPLICATE055 => Construct(0x867ff);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow002DUPLICATE059 => Construct(0x86801);
         public static FormLink<IPlacedObjectGetter> RobotCollision081 => Construct(0x14ca6);
+        public static FormLink<IPlacedObjectGetter> RobotCollision332 => Construct(0xa75b5);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE193 => Construct(0xca242);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE059 => Construct(0x13000);
         public static FormLink<IPlacedObjectGetter> RobotCollision030 => Construct(0x517a);
         public static FormLink<IPlacedObjectGetter> ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss040 => Construct(0x3361);
@@ -2263,8 +2265,8 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow296 => Construct(0x245358);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_Shadow225 => Construct(0x24535c);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow255 => Construct(0x245385);
-        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE195 => Construct(0xc1cbf);
-        public static FormLink<IPlacedObjectGetter> RobotCollision342 => Construct(0xc2130);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE196 => Construct(0xc1cbf);
+        public static FormLink<IPlacedObjectGetter> RobotCollision343 => Construct(0xc2130);
         public static FormLink<IPlacedObjectGetter> SG02_ObjMarker_1221 => Construct(0x2ff91);
         public static FormLink<IPlacedObjectGetter> SG02_ObjMarker_1222 => Construct(0x2de4f4);
         public static FormLink<IPlacedObjectGetter> SG02_FightMarker_Jackie002 => Construct(0x1fad7a);
@@ -2660,8 +2662,8 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow277 => Construct(0x4b712);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow312 => Construct(0x4b71a);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_Shadow246 => Construct(0x4b71b);
-        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE198 => Construct(0xc7751);
-        public static FormLink<IPlacedObjectGetter> RobotCollision347 => Construct(0xc7bb8);
+        public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE199 => Construct(0xc7751);
+        public static FormLink<IPlacedObjectGetter> RobotCollision348 => Construct(0xc7bb8);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE057 => Construct(0x15e8a9);
         public static FormLink<IPlacedObjectGetter> RobotCollision320 => Construct(0xbdf9d);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE2409 => Construct(0x7e21);
@@ -2820,7 +2822,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE3162 => Construct(0x2e4e7b);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE3163 => Construct(0x2e4ee9);
         public static FormLink<IPlacedObjectGetter> StorageContainerMedium_NoDoors_PackinDUPLICATE3164 => Construct(0x2e4f40);
-        public static FormLink<IPlacedObjectGetter> RobotCollision334 => Construct(0xbe38e);
+        public static FormLink<IPlacedObjectGetter> RobotCollision335 => Construct(0xbe38e);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow020DUPLICATE003 => Construct(0x16e8c);
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic020DUPLICATE003 => Construct(0x16eb9);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow020DUPLICATE003 => Construct(0x16ee7);
@@ -3391,7 +3393,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic327 => Construct(0x6ea18);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Ext_NonShadow292 => Construct(0x6ea19);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE060 => Construct(0x2e57af);
-        public static FormLink<IPlacedObjectGetter> RobotCollision338 => Construct(0xbe3b4);
+        public static FormLink<IPlacedObjectGetter> RobotCollision339 => Construct(0xbe3b4);
         public static FormLink<IPlacedObjectGetter> RobotCollision232 => Construct(0x88220);
         public static FormLink<IPlacedObjectGetter> RobotCollision164 => Construct(0x23099);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow019DUPLICATE002DUPLICATE003 => Construct(0xf546c);
@@ -3665,9 +3667,9 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<IPlacedObjectGetter> RobotCollision314 => Construct(0xbde3b);
         public static FormLink<IPlacedObjectGetter> ClutterPI_Tabletop_Ind_Med01DUPLICATE180 => Construct(0xa34c9);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE059 => Construct(0x2e545c);
-        public static FormLink<IPlacedObjectGetter> RobotCollision337 => Construct(0xbe3ad);
+        public static FormLink<IPlacedObjectGetter> RobotCollision338 => Construct(0xbe3ad);
         public static FormLink<IPlacedObjectGetter> LP_Lights_NonShdow120DUPLICATE062 => Construct(0x2e6145);
-        public static FormLink<IPlacedObjectGetter> RobotCollision348 => Construct(0xbe89d);
+        public static FormLink<IPlacedObjectGetter> RobotCollision349 => Construct(0xbe89d);
         public static FormLink<IPlacedObjectGetter> RobotCollision329 => Construct(0xbe344);
         public static FormLink<IPlacedObjectGetter> LP_Lights_ShadowStatic016DUPLICATE026 => Construct(0x2dd1c3);
         public static FormLink<IPlacedObjectGetter> LP_Lights_Shadow016DUPLICATE026 => Construct(0x2dd211);

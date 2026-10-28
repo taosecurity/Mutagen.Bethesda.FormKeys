@@ -113,6 +113,10 @@ public static partial class ShatteredSpace
         public static FormLink<IQuestGetter> SFBGS001_MourningDevice_Control => Construct(0xc0ae4);
         public static FormLink<IQuestGetter> SFBGS001_MS01_SpeechChallenge_Madri => Construct(0xc210b);
         public static FormLink<IQuestGetter> SFBGS001_Achievements_Quest => Construct(0xc753a);
+        public static FormLink<IQuestGetter> SFBGS001_PatchUpdate01 => Construct(0xc777f);
+        public static FormLink<IQuestGetter> SFBGS001_Patch_Update07_1b => Construct(0xc7780);
+        public static FormLink<IQuestGetter> SFBGS001_Patch_Update08 => Construct(0xc77ee);
+        public static FormLink<IQuestGetter> SFBGS001_Patch_Update09 => Construct(0xc77ef);
         public static FormLink<IQuestGetter> SFBGS001_Dialogue_LC15 => Construct(0xcba3e);
         public static FormLink<IQuestGetter> SFBGS001_DialogueHVGenericVaruunShips => Construct(0xce195);
         public static FormLink<IQuestGetter> SFBGS001_DialogueHVGenericVaruunZealots_NewVoicesOnly => Construct(0xce196);

@@ -139,6 +139,7 @@ public static partial class Starfield
         public static FormLink<IAStoryManagerNodeGetter> RedMileRepeatableBranch => Construct(0x2e0ec9);
         public static FormLink<IAStoryManagerNodeGetter> LC082VigilanceConversationsNode => Construct(0x30b92a);
         public static FormLink<IAStoryManagerNodeGetter> SFBGS001_MB_SpecialBranch => Construct(0x318f0e);
+        public static FormLink<IAStoryManagerNodeGetter> SFTER_ConversationNode => Construct(0x319830);
         public static FormLink<IAStoryManagerNodeGetter> ClinicConversationsNode => Construct(0x32db60);
         public static FormLink<IAStoryManagerNodeGetter> MissionBranch_UC => Construct(0x3303ab);
         public static FormLink<IAStoryManagerNodeGetter> DialogueCydonia_AnnouncementBranch => Construct(0x33804e);

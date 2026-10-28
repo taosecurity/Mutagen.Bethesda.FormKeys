@@ -558,6 +558,8 @@ public static partial class Starfield
         public static FormLink<ISpellGetter> PEO_Malnourished_Reminder => Construct(0x3132a4);
         public static FormLink<ISpellGetter> PEO_Dehydrated_Reminder => Construct(0x3132a6);
         public static FormLink<ISpellGetter> PEO_abSustenanceWatchReminder => Construct(0x3132a9);
+        public static FormLink<ISpellGetter> CommonWeaponMod_Spell => Construct(0x31986b);
+        public static FormLink<ISpellGetter> abStarbornShipScriptSpell => Construct(0x31986d);
         public static FormLink<ISpellGetter> CCT_abLegendaryFortifyHealth_Rank2 => Construct(0x32aa8b);
         public static FormLink<ISpellGetter> CCT_abLegendaryFortifyHealth_Rank3 => Construct(0x32aa8d);
         public static FormLink<ISpellGetter> ModWeapon_Annihilator_Hazard_Spell => Construct(0x336bfc);

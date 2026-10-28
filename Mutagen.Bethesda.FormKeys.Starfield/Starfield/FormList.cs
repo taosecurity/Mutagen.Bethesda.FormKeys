@@ -1051,6 +1051,8 @@ public static partial class Starfield
         public static FormLink<IFormListGetter> OutpostFoundationGasLarge01List => Construct(0x315895);
         public static FormLink<IFormListGetter> OutpostFoundationGasSmall01List => Construct(0x31589a);
         public static FormLink<IFormListGetter> SMSSet_Docker_Deimos_100DP_Slim => Construct(0x315fd0);
+        public static FormLink<IFormListGetter> LegendaryAttachPointsList => Construct(0x319819);
+        public static FormLink<IFormListGetter> QuantumContainerDisallowList => Construct(0x31996f);
         public static FormLink<IFormListGetter> DefaultMasterPackageList_Turret => Construct(0x31b5b3);
         public static FormLink<IFormListGetter> VoicesDialogueArrestingGuards_ECSConstant => Construct(0x3298d2);
         public static FormLink<IFormListGetter> OE_AustinF_CECSuperfan_CombatSpectatorOverride => Construct(0x32ab66);

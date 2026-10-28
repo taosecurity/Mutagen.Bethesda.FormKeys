@@ -31,5 +31,6 @@ public static partial class SFBGS003
         public static FormLink<IFormListGetter> SFBGS003_ScannerBountyVoiceTypeMaleCOPY0000 => Construct(0xf5f4);
         public static FormLink<IFormListGetter> SFBGS003_VoicesDialogueCitizens => Construct(0xf5f5);
         public static FormLink<IFormListGetter> SFBGS003_BountyBoard_DisplayFilter => Construct(0xf900);
+        public static FormLink<IFormListGetter> SFBGS003_StarbornSaveActorValues => Construct(0xfa03);
     }
 }

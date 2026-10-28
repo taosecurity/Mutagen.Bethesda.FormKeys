@@ -5919,6 +5919,11 @@ public static partial class ShatteredSpace
         public static FormLink<IPlacedObjectGetter> SFBGS001_MQ05_KaviilWorkMarker02 => Construct(0xb123d);
         public static FormLink<IPlacedObjectGetter> SFBGS001_MQ05_KaviilWorkMarker01 => Construct(0xb1242);
         public static FormLink<IPlacedObjectGetter> SFBGS001_MyloDazmiPKGREF => Construct(0xc44d3);
+        public static FormLink<IPlacedObjectGetter> Floor43 => Construct(0xc778e);
+        public static FormLink<IPlacedObjectGetter> MovingPlatform_AnchorMarker09 => Construct(0xc778f);
+        public static FormLink<IPlacedObjectGetter> MovingPlatform_AnchorMarker08 => Construct(0x8f7f1);
+        public static FormLink<IPlacedObjectGetter> Floor42 => Construct(0xc778a);
+        public static FormLink<IPlacedObjectGetter> ElevatorButtonFix => Construct(0xc7785);
         public static FormLink<IPlacedObjectGetter> DLC001LC06_ScaledCitadelExitDoorRef055 => Construct(0xa68e0);
         public static FormLink<IPlacedObjectGetter> DLC001LC06_ScaledCitadelExitDoorRef052 => Construct(0xa68da);
         public static FormLink<IPlacedObjectGetter> DLC001LC06_ScaledCitadelExitDoorRef058 => Construct(0xa68e8);
@@ -6880,7 +6885,6 @@ public static partial class ShatteredSpace
         public static FormLink<IPlacedObjectGetter> LoadElevator_Floor_Large_FrontDoorOpensDUPLICATE027 => Construct(0x113ee7);
         public static FormLink<IPlacedObjectGetter> LoadElevator_OccupancyDoor105 => Construct(0x127fb2);
         public static FormLink<IPlacedObjectGetter> LoadElevator_Floor_Large_FrontDoorOpensDUPLICATE078 => Construct(0x147f6c);
-        public static FormLink<IPlacedObjectGetter> MovingPlatform_AnchorMarker08 => Construct(0x8f7f1);
         public static FormLink<IPlacedObjectGetter> SFBGS001_MQ02_CaveExitRef => Construct(0x83d6e);
         public static FormLink<IPlacedObjectGetter> COM_CommentTrigger_SFBGS001LC40 => Construct(0x1169de);
         public static FormLink<IPlacedObjectGetter> COM_CommentTrigger_SFBGS001LC28_02 => Construct(0x106d53);

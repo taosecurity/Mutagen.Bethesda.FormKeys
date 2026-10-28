@@ -495,7 +495,7 @@ public static partial class Starfield
         public static FormLink<IPerkGetter> MQ101ModIncomingDamageFromPirates => Construct(0x2fe0c2);
         public static FormLink<IPerkGetter> OutpostPlanetSurveyProductionBoost => Construct(0x30b589);
         public static FormLink<IPerkGetter> PEO_WellHydratedStealth_Perk => Construct(0x313263);
-        public static FormLink<IPerkGetter> PEO_WellFedHarvesting_Perk => Construct(0x31326b);
+        public static FormLink<IPerkGetter> SFBGS00D_SupplyMissionReward_HarvestingBonus => Construct(0x31326b);
         public static FormLink<IPerkGetter> PEO_WellHydratedSneakAttackDMG_Perk => Construct(0x313272);
         public static FormLink<IPerkGetter> Perk_LegendaryWeapon_AntiPersonnel => Construct(0x3168f9);
         public static FormLink<IPerkGetter> Perk_LegendaryWeapon_Berserker => Construct(0x3178f5);

@@ -6283,6 +6283,13 @@ public static partial class Starfield
         public static FormLink<INpcGetter> FC_Neon_RT_Generic_ExecutiveClient_Male03 => Construct(0x316df5);
         public static FormLink<INpcGetter> FC_Neon_RT_Generic_InteriorGuard_Female02 => Construct(0x316df7);
         public static FormLink<INpcGetter> FC_Neon_RT_Generic_InteriorGuard_Male02 => Construct(0x316e04);
+        public static FormLink<INpcGetter> SFTER_LvlTerran_BECrew_Assault => Construct(0x319880);
+        public static FormLink<INpcGetter> SFTER_LvlTerran_BECrew_Captain => Construct(0x319881);
+        public static FormLink<INpcGetter> SFTER_LvlTerran_BECrew_Charger => Construct(0x319882);
+        public static FormLink<INpcGetter> SFTER_LvlTerran_BECrew_Crew => Construct(0x319883);
+        public static FormLink<INpcGetter> SFTER_LvlTerran_BECrew_Heavy => Construct(0x319884);
+        public static FormLink<INpcGetter> SFTER_LvlTerran_BECrew_Sniper => Construct(0x319885);
+        public static FormLink<INpcGetter> SFTER_LvlTerran_BECrew_Robot => Construct(0x319886);
         public static FormLink<INpcGetter> CF_ArminPetrosyan => Construct(0x31b225);
         public static FormLink<INpcGetter> CF_Archangel => Construct(0x31b226);
         public static FormLink<INpcGetter> Staryard_Taiyo_GenericCustomer01 => Construct(0x31d058);

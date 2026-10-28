@@ -255,6 +255,7 @@ public static partial class Starfield
         public static FormLink<IMaterialTypeGetter> MaterialAsteroidALarge => Construct(0x2f6af0);
         public static FormLink<IMaterialTypeGetter> MaterialAsteroidBMedium => Construct(0x2f6af1);
         public static FormLink<IMaterialTypeGetter> MaterialAsteroidCSmall => Construct(0x2f6af2);
+        public static FormLink<IMaterialTypeGetter> SFBGS050_MaterialActorTerranRobot => Construct(0x319888);
         public static FormLink<IMaterialTypeGetter> Material_LavaPoolHazard => Construct(0x3798de);
         public static FormLink<IMaterialTypeGetter> Material_MudPoolHazard => Construct(0x390ef3);
         public static FormLink<IMaterialTypeGetter> Material_SlipperyCollision => Construct(0x3b0620);

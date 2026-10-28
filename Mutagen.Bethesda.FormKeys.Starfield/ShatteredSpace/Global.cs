@@ -104,6 +104,8 @@ public static partial class ShatteredSpace
         public static FormLink<IGlobalGetter> SFBGS001_MQ02_RitualAltar01 => Construct(0xc03b0);
         public static FormLink<IGlobalGetter> SFBGS001_MQ02_RitualAltar02 => Construct(0xc03b1);
         public static FormLink<IGlobalGetter> SFBGS001_MS01_MadriCheck => Construct(0xc288d);
+        public static FormLink<IGlobalGetter> SFBGS001_BypassBlockingHellos_Hasmak => Construct(0xc7781);
+        public static FormLink<IGlobalGetter> SFBGS001_BypassBlockingHellos_Razma => Construct(0xc7782);
         public static FormLink<IGlobalGetter> SFBGS001_VkaiZ03_TrashDistance => Construct(0xcafbe);
         public static FormLink<IGlobalGetter> SFBGS001_VkaiZ03_TakeMoney => Construct(0xd086a);
         public static FormLink<IGlobalGetter> SFBGS001_MissionBoardAccessAllowed_HV => Construct(0xd252c);

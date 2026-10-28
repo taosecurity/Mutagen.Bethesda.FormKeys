@@ -80,5 +80,19 @@ public static partial class SFBGS003
         public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M09 => Construct(0xba4f);
         public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_NB02 => Construct(0xe08c);
         public static FormLink<INpcGetter> SFBGS003_Warden => Construct(0xf35f);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_F05B => Construct(0xf773);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_F04B => Construct(0xf774);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M06B => Construct(0xf775);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M04B => Construct(0xf776);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M02B => Construct(0xf777);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M01B => Construct(0xf778);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_F03B => Construct(0xf779);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M09B => Construct(0xf77b);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_F01B => Construct(0xf77d);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M08B => Construct(0xf77e);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M07B => Construct(0xf780);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M03B => Construct(0xf782);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_M05B => Construct(0xf783);
+        public static FormLink<INpcGetter> SFBGS003_BountyTargetNPC_F02B => Construct(0xf784);
     }
 }

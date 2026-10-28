@@ -1070,6 +1070,11 @@ public static partial class Starfield
         public static FormLink<IImpactGetter> FSTDefaultStoneRoughSprintRImpact => Construct(0x2f4134);
         public static FormLink<IImpactGetter> FSTDefaultStoneRoughWalkLImpact => Construct(0x2f4135);
         public static FormLink<IImpactGetter> FSTDefaultStoneRoughWalkRImpact => Construct(0x2f4136);
+        public static FormLink<IImpactGetter> SFBGS050_FXProjectileBulletVsTerranRobotImpact => Construct(0x319889);
+        public static FormLink<IImpactGetter> SFBGS050_FXProjectileLaserVsTerranRobotImpact => Construct(0x31988a);
+        public static FormLink<IImpactGetter> SFBGS050_FXProjectileParticleBlastVsTerranRobotImpact => Construct(0x31988b);
+        public static FormLink<IImpactGetter> SFBGS050_FXProjectileShotgunVsTerranRobotmpact => Construct(0x31988c);
+        public static FormLink<IImpactGetter> SFBGS050_FXProjectileParticleShotgunVsTerranRobotImpact => Construct(0x31988d);
         public static FormLink<IImpactGetter> PHYMetalChainImpact => Construct(0x34e881);
         public static FormLink<IImpactGetter> FXProjectileBulletVsConcreteLarge => Construct(0x374bc7);
         public static FormLink<IImpactGetter> FSTDefaultLavaHazardWalkImpact => Construct(0x3798df);

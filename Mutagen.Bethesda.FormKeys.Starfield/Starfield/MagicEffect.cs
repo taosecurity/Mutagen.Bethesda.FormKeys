@@ -803,6 +803,8 @@ public static partial class Starfield
         public static FormLink<IMagicEffectGetter> PEO_SustenanceWatchReminderEmpty => Construct(0x3132aa);
         public static FormLink<IMagicEffectGetter> ModLegendaryEffect_AntiPersonnel => Construct(0x317796);
         public static FormLink<IMagicEffectGetter> ModLegendaryEffect_Berserker => Construct(0x3178f4);
+        public static FormLink<IMagicEffectGetter> CommonWeaponMod_Effect => Construct(0x31986a);
+        public static FormLink<IMagicEffectGetter> abStarbornShipScriptEffect => Construct(0x31986c);
         public static FormLink<IMagicEffectGetter> ModLegendaryEffect_Poison_Damage => Construct(0x319aee);
         public static FormLink<IMagicEffectGetter> ModLegendaryEffect_Poison_Slow => Construct(0x319aef);
         public static FormLink<IMagicEffectGetter> ArtifactPowerCreateVacuumSlow => Construct(0x32340e);

@@ -28,6 +28,8 @@ public static partial class SFBGS003
         public static FormLink<IAObjectModificationGetter> mod_PlasmaCutter_Quality_03 => Construct(0xac7b);
         public static FormLink<IAObjectModificationGetter> mod_PlasmaCutter_Quality_04 => Construct(0xac7c);
         public static FormLink<IAObjectModificationGetter> mod_PlasmaCutter_Quality_TiersAny => Construct(0xac7d);
+        public static FormLink<IAObjectModificationGetter> mod_PlasmaCutter_Quality_05 => Construct(0xfa07);
+        public static FormLink<IAObjectModificationGetter> mod_PlasmaCutter_Quality_06 => Construct(0xfa08);
         public static FormLink<IAObjectModificationGetter> mod_AVM_Cutter_SFBGS003_Cutter_TrackersAlliance => Construct(0xfd32);
     }
 }

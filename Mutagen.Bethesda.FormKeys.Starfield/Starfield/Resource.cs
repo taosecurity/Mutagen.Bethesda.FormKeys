@@ -328,6 +328,19 @@ public static partial class Starfield
         public static FormLink<IResourceGetter> ResLaserPrimer => Construct(0x2c0d38);
         public static FormLink<IResourceGetter> ResMagneticPrimer => Construct(0x2c0d3d);
         public static FormLink<IResourceGetter> ResLegendaryCatalyst => Construct(0x2d398b);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_Damage_ranged => Construct(0x3197ed);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_Range_ranged => Construct(0x3197ee);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_Damage_melee => Construct(0x3197ef);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_ENG_armor => Construct(0x3197f0);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_PHYS_armor => Construct(0x3197f1);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_Recoil_ranged => Construct(0x3197f2);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_Accuracy_ranged => Construct(0x3197f3);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_ReloadSpeed_ranged => Construct(0x3197f4);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_EM_armor => Construct(0x3197f5);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_MagSize_ranged => Construct(0x3197f6);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_FireRate_ranged => Construct(0x3197f7);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_AimSpeed_ranged => Construct(0x3197f8);
+        public static FormLink<IResourceGetter> Y2_Res_Unique_Mod_AttackSpeed_melee => Construct(0x3197f9);
         public static FormLink<IResourceGetter> ResMissionSupplyNeed109 => Construct(0x33dfd1);
     }
 }

@@ -21,6 +21,7 @@ public static partial class ShatteredSpace
         public static FormLink<ILegendaryItemGetter> SFBGS001_LegendaryArmorHelmet_MQ06_Reward => Construct(0x91775);
         public static FormLink<ILegendaryItemGetter> SFBGS001_LegendaryArmor_MQ06_Reward => Construct(0x91776);
         public static FormLink<ILegendaryItemGetter> SFBGS001_LegendaryRedeemedBlade => Construct(0x9248d);
+        public static FormLink<ILegendaryItemGetter> SFBGS001_AddInto_DefaultLegendaryWeapons => Construct(0xc77fe);
         public static FormLink<ILegendaryItemGetter> SFBGS001_LegendaryHeavyWeapons => Construct(0x10f799);
     }
 }

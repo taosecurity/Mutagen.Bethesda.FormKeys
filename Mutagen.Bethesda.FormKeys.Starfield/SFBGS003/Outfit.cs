@@ -18,5 +18,6 @@ public static partial class SFBGS003
         public static FormLink<IOutfitGetter> SFBGS003_Outfit_Spacesuit_ETES => Construct(0x6774);
         public static FormLink<IOutfitGetter> Outfit_Spacesuit_BountyHunter_02_NoHelmet_NoBackpack => Construct(0x7cbc);
         public static FormLink<IOutfitGetter> SFBGS003_Outfit_Spacesuit_BountyHunter_Warden => Construct(0xf360);
+        public static FormLink<IOutfitGetter> SFBGS003_Outfit_BountyTarget => Construct(0xf785);
     }
 }

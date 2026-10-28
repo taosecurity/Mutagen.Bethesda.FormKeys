@@ -15837,6 +15837,7 @@ public static partial class Starfield
         public static FormLink<IPlacedObjectGetter> CrowdLoop_AC_Ref142 => Construct(0x941ef);
         public static FormLink<IPlacedObjectGetter> CrowdLoop_AC_Ref143 => Construct(0x941f0);
         public static FormLink<IPlacedObjectGetter> CrowdLoop_AC_Ref140 => Construct(0x403a7);
+        public static FormLink<IPlacedObjectGetter> FC09_Combat_B_Generic_FreestarRanger_ShipRef001 => Construct(0x3198de);
         public static FormLink<IPlacedObjectGetter> COM_AC_CommentTrigger08_Chunks => Construct(0x12fefd);
         public static FormLink<IPlacedObjectGetter> City_ER_Peace_Trigger_Stage205 => Construct(0x169596);
         public static FormLink<IPlacedObjectGetter> City_ER_Peace_Trigger_Stage340 => Construct(0x169930);

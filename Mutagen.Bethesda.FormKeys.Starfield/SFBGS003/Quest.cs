@@ -33,8 +33,10 @@ public static partial class SFBGS003
         public static FormLink<IQuestGetter> SFBGS003_SQ_WantedPosters => Construct(0x7a0e);
         public static FormLink<IQuestGetter> SFBGS003_Bounty_SpeechChallenge => Construct(0xb919);
         public static FormLink<IQuestGetter> SFBGS003_TAHQ_Convo_TankInevitable01 => Construct(0xf57e);
+        public static FormLink<IQuestGetter> Patch_Update08_SFBGS003 => Construct(0xfa02);
         public static FormLink<IQuestGetter> Patch_Update05_Hotfix01 => Construct(0xffd9);
         public static FormLink<IQuestGetter> SQ_SFBGS003_Patch => Construct(0xffdb);
         public static FormLink<IQuestGetter> Patch_Update07_SFBGS003 => Construct(0xffde);
+        public static FormLink<IQuestGetter> Patch_Update7_1_SFBGS003 => Construct(0xffdf);
     }
 }

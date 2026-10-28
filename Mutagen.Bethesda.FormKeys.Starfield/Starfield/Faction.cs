@@ -755,6 +755,7 @@ public static partial class Starfield
         public static FormLink<IFactionGetter> CrimeFactionUCSysDef => Construct(0x30c088);
         public static FormLink<IFactionGetter> AkilaCityFaction_BarPatron => Construct(0x30e2cb);
         public static FormLink<IFactionGetter> UCSecurityFaction_WellPrisonerGuard => Construct(0x318411);
+        public static FormLink<IFactionGetter> SFTER_TerranBECrewFaction => Construct(0x31987f);
         public static FormLink<IFactionGetter> FC_Neon_TradeTowerExecutiveFaction => Construct(0x324cdf);
         public static FormLink<IFactionGetter> FC_Neon_TradeTowerScientistFaction => Construct(0x324ce1);
         public static FormLink<IFactionGetter> Vendor_PD_SimonFaction => Construct(0x325c26);

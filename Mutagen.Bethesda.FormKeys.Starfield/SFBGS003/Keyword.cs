@@ -59,6 +59,7 @@ public static partial class SFBGS003
         public static FormLink<IKeywordGetter> SFBGS003_SpeechChallengeKeyword => Construct(0xf5f3);
         public static FormLink<IKeywordGetter> AnimSFBGS003_PlasmaCutter => Construct(0xf650);
         public static FormLink<IKeywordGetter> UI_Icon_PlasmaCutter => Construct(0xf6f6);
+        public static FormLink<IKeywordGetter> SFBGS003_SQ_BGS003_Actor_Fight_Keyword => Construct(0xf770);
         public static FormLink<IKeywordGetter> SFBGS003_BountyBoard_DisplaySlot => Construct(0xf8f9);
         public static FormLink<IKeywordGetter> SFBGS003_BountyBoard_MatSwap => Construct(0xf901);
         public static FormLink<IKeywordGetter> SFBGS003_GenGlow_Swap_Keyword => Construct(0xf9b3);

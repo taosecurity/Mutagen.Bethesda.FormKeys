@@ -667,6 +667,7 @@ public static partial class Starfield
         public static FormLink<IContainerGetter> Vendor_PD_SimonContainer => Construct(0x2ddd21);
         public static FormLink<IContainerGetter> Vendor_City_Neon_FranchescaMooreContainer => Construct(0x2fb11f);
         public static FormLink<IContainerGetter> Vendor_BEKT02_BartenderContainer => Construct(0x2ff0fa);
+        public static FormLink<IContainerGetter> ffCydoniaR02_DenisContainer => Construct(0x3198d4);
         public static FormLink<IContainerGetter> LC116_Loot_Storage_Miscbox03_Common_NoFoodOrDrink => Construct(0x337b3d);
         public static FormLink<IContainerGetter> ATMCreditsContainer => Construct(0x349317);
         public static FormLink<IContainerGetter> ATM_Galbank => Construct(0x34931e);

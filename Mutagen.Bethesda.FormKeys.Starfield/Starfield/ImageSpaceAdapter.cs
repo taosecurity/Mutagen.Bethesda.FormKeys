@@ -193,6 +193,7 @@ public static partial class Starfield
         public static FormLink<IImageSpaceAdapterGetter> FadeOut_Surgery => Construct(0x2dc108);
         public static FormLink<IImageSpaceAdapterGetter> ShipPowerAllocationImod => Construct(0x2ede71);
         public static FormLink<IImageSpaceAdapterGetter> DoF_E3_Video_Story18_TheScow => Construct(0x30bbf3);
+        public static FormLink<IImageSpaceAdapterGetter> ShipRepairKitImod => Construct(0x319846);
         public static FormLink<IImageSpaceAdapterGetter> ChronoMarkDof => Construct(0x3a85f2);
         public static FormLink<IImageSpaceAdapterGetter> DoF_E3_Video_Story17_AkilaSlums01 => Construct(0x3ac534);
         public static FormLink<IImageSpaceAdapterGetter> DoF_E3_Video_Story14_CydoniaExt01 => Construct(0x3c3fcf);

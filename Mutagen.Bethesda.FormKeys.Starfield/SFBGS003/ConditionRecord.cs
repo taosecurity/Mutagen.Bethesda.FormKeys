@@ -29,6 +29,9 @@ public static partial class SFBGS003
         public static FormLink<IConditionRecordGetter> SFBGS003_BountyScanner_RedMileMarker => Construct(0xf6aa);
         public static FormLink<IConditionRecordGetter> SFBGS003_BountyScanner_AnyBreathable => Construct(0xf6ab);
         public static FormLink<IConditionRecordGetter> SFBGS003_BountyScanner_FindOEMarker => Construct(0xf6d3);
+        public static FormLink<IConditionRecordGetter> SFBGS003_BountyScanner_OEMarker => Construct(0xf752);
+        public static FormLink<IConditionRecordGetter> SFBGS003_BountyScanner_OriginalConditions => Construct(0xf754);
+        public static FormLink<IConditionRecordGetter> SFBGS003_BountyScanner_OriginalConditions_OE => Construct(0xf756);
         public static FormLink<IConditionRecordGetter> SFTA00_ShowHannibalObjectiveConditions => Construct(0xff89);
     }
 }

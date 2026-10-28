@@ -1909,6 +1909,9 @@ public static partial class Starfield
         public static FormLink<IQuestGetter> DialogueCFTheKey_CFPost_Convo04 => Construct(0x313b95);
         public static FormLink<IQuestGetter> Patch_Update07 => Construct(0x318f00);
         public static FormLink<IQuestGetter> Patch_Update07b => Construct(0x318f4e);
+        public static FormLink<IQuestGetter> Patch_Update08 => Construct(0x319832);
+        public static FormLink<IQuestGetter> UC04_PatchQuest => Construct(0x319844);
+        public static FormLink<IQuestGetter> Patch_Update09 => Construct(0x319845);
         public static FormLink<IQuestGetter> FC_AC_RandConv_TheRock08 => Construct(0x31999a);
         public static FormLink<IQuestGetter> MQ_TutorialQuest_Misc08 => Construct(0x31c06f);
         public static FormLink<IQuestGetter> MQ_TutorialQuest_Misc07 => Construct(0x31c070);

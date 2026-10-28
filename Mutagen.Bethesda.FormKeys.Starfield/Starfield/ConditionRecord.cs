@@ -772,6 +772,8 @@ public static partial class Starfield
         public static FormLink<IConditionRecordGetter> MS02_MeetingFinished_ConditionForm => Construct(0x30a332);
         public static FormLink<IConditionRecordGetter> CF07_NoKickoutCheck => Construct(0x30c9bb);
         public static FormLink<IConditionRecordGetter> CF05_JadeSwanAssaultDialogueBlocker => Construct(0x30d619);
+        public static FormLink<IConditionRecordGetter> SFBGS_CND_Placeholder01_ReservedForUse => Construct(0x31982f);
+        public static FormLink<IConditionRecordGetter> HumanRaceORChildRaceORHumanCorpseRaceORRaceAllowSpacesuit => Construct(0x3198d6);
         public static FormLink<IConditionRecordGetter> AudioCondition_Quest_MQ101_ElevatorHasStopped => Construct(0x31c073);
         public static FormLink<IConditionRecordGetter> SQ_Group_CND_LocAlias_KillHostileHumans_02_Dungeon => Construct(0x3239c6);
         public static FormLink<IConditionRecordGetter> CND_SleepRequirements_WellRested_And_EmotionalSecurity => Construct(0x32d978);

@@ -2898,6 +2898,9 @@ public static partial class Starfield
         public static FormLink<ILocationReferenceTypeGetter> RI04_NeonExterior_VentQTPrimitiveRefType => Construct(0x313202);
         public static FormLink<ILocationReferenceTypeGetter> RI04_NeonExterior_VentExitQTPrimitiveRefType => Construct(0x313207);
         public static FormLink<ILocationReferenceTypeGetter> MQ104A_DR001_ExteriorEnableRefType => Construct(0x317427);
+        public static FormLink<ILocationReferenceTypeGetter> FFCydoniaR02_DenisContainer_LocRef => Construct(0x3198d2);
+        public static FormLink<ILocationReferenceTypeGetter> FC09_StarEagle_LRT => Construct(0x3198dc);
+        public static FormLink<ILocationReferenceTypeGetter> Patch_Update09_StarEagle_LRT => Construct(0x3198dd);
         public static FormLink<ILocationReferenceTypeGetter> MQ102ArtifactRefType => Construct(0x31d722);
         public static FormLink<ILocationReferenceTypeGetter> MQ102MoaraShipBossRefType => Construct(0x31d724);
         public static FormLink<ILocationReferenceTypeGetter> PD_Rooftop_LocRef => Construct(0x325c24);

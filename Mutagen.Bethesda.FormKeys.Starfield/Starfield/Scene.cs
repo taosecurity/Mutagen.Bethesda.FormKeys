@@ -7322,6 +7322,7 @@ public static partial class Starfield
         public static FormLink<ISceneGetter> COM_SMQ01_Stage025_LoganScene => Construct(0x28bbe0);
         public static FormLink<ISceneGetter> COM_SMQ01_Stage023_LoganScene => Construct(0x28bbe1);
         public static FormLink<ISceneGetter> COM_SMQ01_Stage000_MasterTopLevel_Sarah => Construct(0x28bbe4);
+        public static FormLink<ISceneGetter> COM_Quest_SarahMorgan_Q01_QuestFix => Construct(0x319838);
         public static FormLink<ISceneGetter> RI01_Radio_JobAdNeonScene => Construct(0x15abcc);
         public static FormLink<ISceneGetter> RI01_Radio_JobAdRyujinTowerScene => Construct(0x15abcd);
         public static FormLink<ISceneGetter> RI01_Radio_JobAdNewAtlantisScene => Construct(0x2c9b80);

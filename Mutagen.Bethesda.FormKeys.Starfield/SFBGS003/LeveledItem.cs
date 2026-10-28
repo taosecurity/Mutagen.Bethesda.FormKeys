@@ -25,6 +25,7 @@ public static partial class SFBGS003
         public static FormLink<ILeveledItemGetter> SFBGS003_LL_Astras_Weapons => Construct(0xe2f5);
         public static FormLink<ILeveledItemGetter> SFBGS003_LL_Astras_Armor => Construct(0xe2f6);
         public static FormLink<ILeveledItemGetter> SFBGS003_LLC_Vendor_TAHQ_TwoShotContainer => Construct(0xe301);
+        public static FormLink<ILeveledItemGetter> SFBGS003_LL_Clothes_BountyTargets_DoAllBeforeRepeat => Construct(0xf771);
         public static FormLink<ILeveledItemGetter> LL_Spacesuit_ETES_Backpack_HighestQuality => Construct(0xff8e);
         public static FormLink<ILeveledItemGetter> LL_Spacesuit_ETES_Backpack_Quality_01 => Construct(0xff8f);
         public static FormLink<ILeveledItemGetter> LL_Spacesuit_ETES_Backpack_Quality_02 => Construct(0xff90);

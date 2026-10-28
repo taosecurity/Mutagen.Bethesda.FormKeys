@@ -1047,6 +1047,8 @@ public static partial class Starfield
         public static FormLink<IActorValueInformationGetter> SQ_PlanetLastSurveyReward => Construct(0x303c1f);
         public static FormLink<IActorValueInformationGetter> SpaceshipLanderRating => Construct(0x30b58a);
         public static FormLink<IActorValueInformationGetter> LC088_Vigilance_TravelToTargetLinkValue => Construct(0x3192df);
+        public static FormLink<IActorValueInformationGetter> OutpostHarvesterPlaceAnywhere => Construct(0x31986f);
+        public static FormLink<IActorValueInformationGetter> WorkshopBudgetBaseline => Construct(0x319872);
         public static FormLink<IActorValueInformationGetter> COM_StarbornSaveActorValue_MaxStoryGate_Barret => Construct(0x31c39a);
         public static FormLink<IActorValueInformationGetter> COM_StarbornSaveActorValue_MaxStoryGate_Andreja => Construct(0x31c39b);
         public static FormLink<IActorValueInformationGetter> COM_StarbornSaveActorValue_MaxStoryGate_SamCoe => Construct(0x31c39c);

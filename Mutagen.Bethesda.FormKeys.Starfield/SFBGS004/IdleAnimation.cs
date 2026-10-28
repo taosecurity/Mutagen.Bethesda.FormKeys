@@ -15,5 +15,13 @@ public static partial class SFBGS004
         public static FormLink<IIdleAnimationGetter> SFBGS004_Rover_EnterFromLeft => Construct(0x5c);
         public static FormLink<IIdleAnimationGetter> SFBGS004_Rover_EnterFromRight => Construct(0x5d);
         public static FormLink<IIdleAnimationGetter> Human_Root_Death_Rover => Construct(0x2fd);
+        public static FormLink<IIdleAnimationGetter> PhotoMode_VehicleHangTen => Construct(0x38d);
+        public static FormLink<IIdleAnimationGetter> PhotoMode_VehicleBackSeat => Construct(0x38e);
+        public static FormLink<IIdleAnimationGetter> PhotoMode_VehicleNoHands => Construct(0x38f);
+        public static FormLink<IIdleAnimationGetter> PhotoMode_VehicleThumbsUp => Construct(0x392);
+        public static FormLink<IIdleAnimationGetter> ModelA_Photomode_Vehicle_Wave => Construct(0x393);
+        public static FormLink<IIdleAnimationGetter> ModelA_Photomode_Vehicle_SideSaddle => Construct(0x394);
+        public static FormLink<IIdleAnimationGetter> ModelA_Photomode_Vehicle_Surfin => Construct(0x395);
+        public static FormLink<IIdleAnimationGetter> ModelA_Photomode_Vehicle_LookForward => Construct(0x396);
     }
 }

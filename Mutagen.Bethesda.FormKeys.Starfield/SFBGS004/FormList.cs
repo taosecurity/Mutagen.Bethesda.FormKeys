@@ -12,5 +12,6 @@ public static partial class SFBGS004
         private static FormLink<IFormListGetter> Construct(uint id) => new FormLink<IFormListGetter>(ModKey.MakeFormKey(id));
         public static FormLink<IFormListGetter> SMSSet_Vehicle_Nova_REV8 => Construct(0x45);
         public static FormLink<IFormListGetter> SFBGS004_ShipModuleRecipeCategories => Construct(0x38c);
+        public static FormLink<IFormListGetter> PhotoModeCategory01Poses02Vehicle => Construct(0x391);
     }
 }

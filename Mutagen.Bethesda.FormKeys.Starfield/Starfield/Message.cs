@@ -1083,6 +1083,8 @@ public static partial class Starfield
         public static FormLink<IMessageGetter> PEO_Malnourished_Msg => Construct(0x313265);
         public static FormLink<IMessageGetter> PEO_Dehydrated_Msg => Construct(0x31327c);
         public static FormLink<IMessageGetter> Tutorial_ShipStealth_MSGBox => Construct(0x31619e);
+        public static FormLink<IMessageGetter> HelpShipEquipmentModules => Construct(0x31985f);
+        public static FormLink<IMessageGetter> HelpShipOptimizations => Construct(0x319860);
         public static FormLink<IMessageGetter> Tutorial_City_MSGBox => Construct(0x31c071);
         public static FormLink<IMessageGetter> AkilaLife_TouristName => Construct(0x325d64);
         public static FormLink<IMessageGetter> LC165_Starborn_Courtyard_NameMessage => Construct(0x326c28);

@@ -59,6 +59,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<ICellGetter> BlueprintExteriorPersonnelAGenericRambler02Template => Construct(0x729d4);
         public static FormLink<ICellGetter> BlueprintInteriorCruiserCDeimosChimera02Template => Construct(0x789ec);
         public static FormLink<ICellGetter> BlueprintInteriorDebugMaxLandable => Construct(0x7f684);
+        public static FormLink<ICellGetter> REFRFC09CombatBGenericFreestarRangerShipRef001ID003198deINSTBlueprintExteriorFC09CombatBGenericFreestarRangerShip => Construct(0xca490);
         public static FormLink<ICellGetter> BlueprintInteriorFighterAHopetechWatchdog04Template => Construct(0xe3f80);
         public static FormLink<ICellGetter> BlueprintExteriorSEZW08LegendarySpacerShipBuiltTemplate => Construct(0x264198);
         public static FormLink<ICellGetter> BlueprintExteriorCombatBGenericPterosaur02Template => Construct(0x4182);
@@ -410,6 +411,7 @@ public static partial class BlueprintShips_Starfield
         public static FormLink<ICellGetter> BlueprintExteriorCombatBGenericStarhawk02Template => Construct(0x527b);
         public static FormLink<ICellGetter> BlueprintInteriorCruiserCHopetechStarSemi01Template => Construct(0x4a5e7);
         public static FormLink<ICellGetter> BlueprintExteriorPersonnelAGenericResponder02Template => Construct(0x72f1f);
+        public static FormLink<ICellGetter> REFRFC09CombatBGenericFreestarRangerShipRef001ID003198deINSTBlueprintInteriorFC09CombatBGenericFreestarRangerShip => Construct(0xa7503);
         public static FormLink<ICellGetter> BlueprintExteriorCruiserCStroudVindicator01Template => Construct(0xb5793);
         public static FormLink<ICellGetter> BlueprintExteriorExplorerAStroudGalileo01Template => Construct(0xda6fb);
         public static FormLink<ICellGetter> BlueprintInteriorPersonnelCGenericVista02Template => Construct(0x1231d);

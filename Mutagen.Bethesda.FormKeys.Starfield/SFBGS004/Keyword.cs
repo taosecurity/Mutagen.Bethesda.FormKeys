@@ -23,5 +23,6 @@ public static partial class SFBGS004
         public static FormLink<IKeywordGetter> VehicleModelNodeName => Construct(0x2a5);
         public static FormLink<IKeywordGetter> UI_Icon_Rev8 => Construct(0x312);
         public static FormLink<IKeywordGetter> VendorSM_Vehicle => Construct(0x345);
+        public static FormLink<IKeywordGetter> PhotoModeCategoryPoses_Vehicle => Construct(0x390);
     }
 }
